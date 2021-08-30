@@ -8,7 +8,8 @@ Okay that being said I like juggle between multiple languages and technologies a
 ## Techical Speciality:
 ### genericness (British English) 
 ### /dʒɪˈnɛrɪknəs/  (Noun)
-### 1. the state or quality of being generic   2.generic properties
+### 1. the state or quality of being generic 
+### 2. related to generic properties
 - My work experience at Deloitte Consulting and Salesforce.com gave me repeated chances to specialize in making generic software solution. I have designed and built UI for a "No Code" application and implemented a generic metrics storage database augmented by a source agnostic ingestion and query APIs.  
 
 ## Life Philosophy: 
