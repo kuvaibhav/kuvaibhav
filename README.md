@@ -9,9 +9,13 @@ The philosophy by which I identify myself is :
 ### "A jack of all trades is a master of none, but oftentimes better than a master of one"
 
 
+![image](https://user-images.githubusercontent.com/41999054/131287019-0ea33f37-98e3-48c3-9e9f-bb28c54945bf.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuvaibhav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+- 🔭 I’m currently working on building a generic metrics database. 
+- 🌱 I’m currently learning GraphQL. 
+- 📫 How to reach me: https://www.linkedin.com/in/kumarvaibhav002/
+- 💬 Ask me about Java Spring Boot JDBC, Angular and anything that requires generic implementation. 
+- ⚡ Fun fact: I like writing. Ask me about my publications 😄
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuvaibhav&show_icons=true&theme=radical)
 
