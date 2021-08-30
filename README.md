@@ -1,4 +1,6 @@
-## Hello from Kumar Vaibhav ! Welcome to my Github Account ⚡👋
+![Kumar Vaibhav Github](https://user-images.githubusercontent.com/41999054/131281992-3c47c750-9305-4d5a-b75d-b90f60afa286.jpg)
+
+## Welcome to my Portfolio ⚡👋
 
 I am full stack developer and I love strong typed languages such as Typescript and Java. But when I am in a hurry my goto option is always Python. 
 Okay that being said I like juggle between multiple languages and technologies and love to explore new avenues. 
