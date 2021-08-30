@@ -5,6 +5,12 @@
 I am full stack developer and I love strong typed languages such as Typescript and Java. But when I am in a hurry my goto option is always Python. 
 Okay that being said I like juggle between multiple languages and technologies and love to explore new avenues. 
 
+### Speciality
+### genericness (British English)
+### /dʒɪˈnɛrɪknəs/ 
+### Noun 
+- the state or quality of being generic
+
 The philosophy by which I identify myself is : 
 ### "A jack of all trades is a master of none, but oftentimes better than a master of one"
 
