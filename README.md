@@ -5,11 +5,10 @@
 I am full stack developer and I love strong typed languages such as Typescript and Java. But when I am in a hurry my goto option is always Python. 
 Okay that being said I like juggle between multiple languages and technologies and love to explore new avenues. 
 
-### Speciality
-### genericness (British English)
-### /dʒɪˈnɛrɪknəs/ 
-### Noun 
-- the state or quality of being generic
+### Techical Speciality: genericness (British English) 
+### /dʒɪˈnɛrɪknəs/  (Noun)
+### 1. the state or quality of being generic   2.generic properties
+- My work experience at Deloitte Consulting and Salesforce.com gave me repeated chances to specialize in making generic software solution. I have designed and built UI for a "No Code" application and implemented a generic metrics storage database augmented by a source agnostic ingestion adn query APIs.  
 
 The philosophy by which I identify myself is : 
 ### "A jack of all trades is a master of none, but oftentimes better than a master of one"
