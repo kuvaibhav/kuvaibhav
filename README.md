@@ -1,5 +1,13 @@
 ### Hello from Kumar Vaibhav ! Welcome to my Github Account ⚡👋
 
+I am full stack developer and I love strong typed languages such as Typescript and Java. But when I am in a hurry my goto option is always Python. 
+Okay that being said I like juggle between multiple languages and technologies and love to explore new avenues. 
+
+The philosophy by which I identify myself is : 
+### A jack of all trades is a master of none, but oftentimes better than a master of one
+
+I strongly feel this is the attitud that is needed to succeed as a young software developer. 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?kuvaibhav" frameborder="0"></iframe>
 <!--
 **kuvaibhav/kuvaibhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
