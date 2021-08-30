@@ -7,7 +7,8 @@ The philosophy by which I identify myself is :
 ### "A jack of all trades is a master of none, but oftentimes better than a master of one"
 
 I strongly feel this is the attitud that is needed to succeed as a young software developer. 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?kuvaibhav" frameborder="0"></iframe>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuvaibhav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kuvaibhav/kuvaibhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
