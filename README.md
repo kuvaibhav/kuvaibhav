@@ -23,6 +23,7 @@ Okay that being said I like juggle between multiple languages and technologies a
 - 📫 How to reach me: https://www.linkedin.com/in/kumarvaibhav002/
 - 💬 Ask me about Java Spring Boot JDBC, Angular and anything that requires generic implementation. 
 - ⚡ Fun fact: I like writing. Ask me about my publications 😄
+- - 😄 Pronouns: Him/His/He
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuvaibhav&show_icons=true&theme=radical)
 
